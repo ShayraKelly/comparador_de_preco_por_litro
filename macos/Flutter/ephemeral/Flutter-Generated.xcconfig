@@ -1,0 +1,11 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=C:\Users\shayr\OneDrive\Área de Trabalho\flutter\flutter
+FLUTTER_APPLICATION_PATH=C:\Users\shayr\OneDrive\Documents\1 pasta faculdade\TSI\6 período\DDM\Prova 1\comparador_preco_litro
+COCOAPODS_PARALLEL_CODE_SIGN=true
+FLUTTER_BUILD_DIR=build
+FLUTTER_BUILD_NAME=1.0.0
+FLUTTER_BUILD_NUMBER=1
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=.dart_tool/package_config.json
